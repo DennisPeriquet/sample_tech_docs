@@ -1,0 +1,5 @@
+site_name: 'Some Component sample'
+plugins:
+  - techdocs-core
+nav:
+  - FAQ: FAQ.md
