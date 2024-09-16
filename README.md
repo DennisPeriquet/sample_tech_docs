@@ -1,2 +1,11 @@
-# sample_tech_docs
-Some sample docs to see if backstage can read them.
+# Introduction
+
+This is an introduction section.
+
+# Usage
+
+This is a usage section.
+
+# Troubleshooting
+
+This is a troubling section.
